@@ -8,7 +8,7 @@ streamlit run streamlit_app.py
 uvicorn main:app --reload
 ```
 
-## Run py file intercativly
+## Run py file Interactively
 ```cmd
 python -i yourfile.py
 ```
